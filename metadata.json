@@ -1,0 +1,6 @@
+{
+  "name": "Creo",
+  "description": "An AI-powered content creation engine for generating polished, platform-optimized, ready-to-publish copy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
