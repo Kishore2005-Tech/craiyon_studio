@@ -120,11 +120,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+<div align="center">
+
 ## 👤 Author
+ Kishore P | Full Stack Developer | [GitHub](https://github.com/Kishore2005-Tech)
 
-**Kishore**
-Full-Stack Developer | [GitHub](https://github.com/Kishore2005-Tech)
+</div>
 
----
 
 <p align="center">Built with Next.js, React, and a bit of imagination ✨</p>
