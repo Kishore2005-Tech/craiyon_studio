@@ -15,7 +15,7 @@ A sleek, full-stack AI text-to-image generator built with **Next.js 16** and **R
 - **Text-to-Image Generation** — Turn any prompt into an AI-generated image in seconds
 - **Aspect Ratio Control** — Switch between Square, Portrait, and Landscape outputs
 - **Example Prompts** — One-click starter prompts to spark inspiration
-- Generation History — Automatically keeps your last 6 generations in a visual grid
+- **Generation History** — Automatically keeps your last 6 generations in a visual grid
 - **Download & Copy** — Save any generated image or copy its prompt instantly
 - **Regenerate** — Re-run the same prompt for a fresh variation
 - **Character-Limited Input** — Live counter keeps prompts within API limits (500 chars)
