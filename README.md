@@ -77,10 +77,10 @@ craiyon_studio/
 git clone https://github.com/Kishore2005-Tech/craiyon_studio.git
 cd craiyon_studio
 
-# Install dependencies
+Install dependencies
 pnpm install
 
-# Run the development server
+Run the development server
 pnpm dev
 ```
 
