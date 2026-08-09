@@ -28,7 +28,7 @@ export default function ImageDisplay({
 
     try {
       
-      
+      const blob = await response.blob()
       const url = window.URL.createObjectURL(blob)
       const link = document.createElement('a')
       link.href = url
