@@ -3,7 +3,7 @@
 
 
 
-
+import { Button } from './ui/button'
 import LoadingState from './LoadingState'
 
 interface ImageDisplayProps {
