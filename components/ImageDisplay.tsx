@@ -30,7 +30,7 @@ export default function ImageDisplay({
       
       
       
-      const link = document.createElement('a')
+      
       link.href = url
       link.download = `craiyon-ai-${Date.now()}.png`
       document.body.appendChild(link)
