@@ -29,7 +29,7 @@ export default function ImageDisplay({
     try {
       
       
-      
+      const url = window.URL.createObjectURL(blob)
       const link = document.createElement('a')
       link.href = url
       link.download = `craiyon-ai-${Date.now()}.png`
