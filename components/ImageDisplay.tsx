@@ -27,7 +27,7 @@ export default function ImageDisplay({
     if (!imageUrl) return
 
     try {
-      
+      const response = await fetch(imageUrl)
       const blob = await response.blob()
       const url = window.URL.createObjectURL(blob)
       const link = document.createElement('a')
