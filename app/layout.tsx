@@ -3,7 +3,7 @@
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Craiyon AI - AI Text to Image Generator',
+  
   description: 'Generate stunning AI images from text prompts with Craiyon AI',
   generator: 'v0.app',
   icons: {
