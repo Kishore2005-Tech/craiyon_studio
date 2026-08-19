@@ -20,7 +20,7 @@ export async function POST(request: NextRequest) {
     try {
       const headResponse = await fetch(imageUrl, { method: 'HEAD' })
       if (!headResponse.ok) {
-       
+        throw new Error('Failed to generate image')
       }
     } catch (error) {
       return NextResponse.json(
