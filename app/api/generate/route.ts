@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server'
-
 export async function POST(request: NextRequest) {
   try {
    const { prompt } = await request.json()
@@ -15,7 +14,7 @@ export async function POST(request: NextRequest) {
     
     
     // Use Pollinations.ai free image API
-    
+    const imageUrl = `https://image.pollinations.ai/prompt/${encodedPrompt}`
 
     // Verify the image is accessible by making a HEAD request
     try {
