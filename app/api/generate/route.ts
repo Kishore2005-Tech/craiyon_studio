@@ -14,7 +14,7 @@ export async function POST(request: NextRequest) {
     const encodedPrompt = encodeURIComponent(prompt)
     
     // Use Pollinations.ai free image API
-    const imageUrl = `https://image.pollinations.ai/prompt/${encodedPrompt}`
+    
 
     // Verify the image is accessible by making a HEAD request
     try {
