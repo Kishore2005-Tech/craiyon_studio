@@ -33,7 +33,7 @@ import { cn } from '@/lib/utils'
         'icon-lg': 'size-9',
       },
     },
-    defaultVariants: {
+    
       variant: 'default',
       size: 'default',
     },
