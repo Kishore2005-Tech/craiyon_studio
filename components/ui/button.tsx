@@ -41,7 +41,7 @@ import { cn } from '@/lib/utils'
 )
 
 function Button({
-  className,
+  
   variant = 'default',
   size = 'default',
   ...props
