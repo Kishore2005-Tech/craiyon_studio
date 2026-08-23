@@ -43,7 +43,7 @@ import { cn } from '@/lib/utils'
 function Button({
   
   variant = 'default',
-  size = 'default',
+ 
   ...props
 }: ButtonPrimitive.Props & VariantProps<typeof buttonVariants>) {
   return (
