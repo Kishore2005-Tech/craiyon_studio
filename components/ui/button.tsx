@@ -49,7 +49,7 @@ function Button({
   return (
     <ButtonPrimitive
       
-      className={cn(buttonVariants({ variant, size, className }))}
+      
       {...props}
     />
   )
