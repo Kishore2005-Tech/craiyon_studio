@@ -19,7 +19,7 @@ A sleek, full-stack AI text-to-image generator built with **Next.js 16** and **R
 - **Download & Copy** — Save any generated image or copy its prompt instantly
 - **Regenerate** — Re-run the same prompt for a fresh variation
 - **Character-Limited Input** — Live counter keeps prompts within API limits (500 chars)
-- **Server-Side Image Proxying — All image requests are validated through a Next.js API route before reaching the client
+- **Server-Side Image Proxying** — All image requests are validated through a Next.js API route before reaching the client
 - **Responsive, Dark-Themed UI — Built with Tailwind CSS 4 and a polished purple/pink gradient aesthetic
 - **Analytics-Ready — Integrated with Vercel Analytics out of the box
 
