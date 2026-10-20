@@ -1,6 +1,6 @@
 # 🎨 Craiyon AI Studio
 
-A sleek, full-stack AI text-to-image generator built with **Next.js 16** and **React 19. Describe anything, and watch it come to life — powered by Pollinations.ai's free image generation API, with zero API keys required on the client.
+A sleek, full-stack AI text-to-image generator built with **Next.js 16 and **React 19. Describe anything, and watch it come to life — powered by Pollinations.ai's free image generation API, with zero API keys required on the client.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.2-black?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react)
