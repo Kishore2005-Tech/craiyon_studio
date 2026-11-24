@@ -40,7 +40,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="bg-slate-950">
-      <body className="antialiased bg-slate-950 text-slate-50">
+       bg-slate-950 text-slate-50">
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
